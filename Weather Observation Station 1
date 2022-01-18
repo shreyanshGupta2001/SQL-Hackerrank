@@ -1,0 +1,7 @@
+//MySQL
+
+/*
+Enter your query here.
+*/
+
+Select CITY, STATE from STATION;
